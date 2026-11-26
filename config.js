@@ -1,3 +1,4 @@
-// Укажите параметры Supabase из Project Settings → API.
-// Используйте только публичный anon key. Никогда не публикуйте service_role key.
-window.AFISHA_CONFIG={SUPABASE_URL:"ВСТАВЬТЕ_URL_ПРОЕКТА",SUPABASE_ANON_KEY:"ВСТАВЬТЕ_ANON_PUBLIC_KEY"};
+window.AFISHA_CONFIG = {
+  SUPABASE_URL: "https://kemcddfqatgtogmlkrem.supabase.co",
+  SUPABASE_ANON_KEY: "sb_publishable_v9wouah7TZtTBXAWySBNCA_K8jeRa_P"
+};
